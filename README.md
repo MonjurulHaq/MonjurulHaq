@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonjurulHaq
 - 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning Javascript and networking
+- 🌱 I’m currently learning Javascript and Networking
 
 
 <!---
