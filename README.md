@@ -22,7 +22,7 @@ I'm a curious builder who loves turning ideas into code. Whether it's crafting r
 
 ---
 
-## 🌐 Connect with me
+## 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/monjurulHaq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/monjurul-haq)
