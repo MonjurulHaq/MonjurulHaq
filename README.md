@@ -21,6 +21,9 @@ I'm a curious builder who loves turning ideas into code. Whether it's crafting r
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monjurulHaq&layout=compact&theme=highcontrast)
 
 ---
+[![Commit graph](https://github-readme-activity-graph.vercel.app/graph?username=MonjurulHaq&theme=react-dark)](https://github.com/x0sa1d/github-readme-activity-graph)
+
+---
 
 ## 📫 Connect with me
 
